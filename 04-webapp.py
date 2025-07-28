@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import streamlit as st
 from ai import get_personality_analysis
 
-load_dotenv() #불러오기
+load_dotenv() 
 
 st.title("ai 관상 보기 프로그램")
 st.write("---")
