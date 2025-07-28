@@ -1,4 +1,4 @@
-# ai.py
+# pip install -U openai -> 최신버전 설치
 
 from openai import OpenAI
 
