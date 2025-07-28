@@ -15,3 +15,4 @@ numbers_1 = generate_numbers_1(10)
 numbers_2 = generate_numbers_2(10)
 print(numbers_1)
 print(numbers_2)
+
